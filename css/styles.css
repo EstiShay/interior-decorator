@@ -16,3 +16,15 @@ img{
 img{
   float: right;
 }
+
+#before {
+  background-color: #f4d9b5;
+}
+
+#during {
+  background-color: #eef0c2;
+}
+
+#after {
+  background-color: #ddefc1;
+}
